@@ -1,0 +1,8 @@
+While loop, NUM value= 0
+While loop, NUM value= 1
+While loop, NUM value= 2
+While loop, NUM value= 3
+While loop, NUM value= 4
+While loop, NUM value= 5
+While loop, NUM value= 6
+hello
